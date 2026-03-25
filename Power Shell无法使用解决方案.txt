@@ -1,0 +1,2 @@
+Set-ExecutionPolicy RemoteSigned
+默认 windows 很多都是需要先执行这个命令才能运行 power shell
