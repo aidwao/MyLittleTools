@@ -1,0 +1,6 @@
+
+******** Loading object Texture2D'Alchemy06_biaotizi.Alchemy06_biaotizi' ********
+
+ERROR: Serialized FString is not null-terminated
+FString<< <- FTexturePlatformData<< <- UTexture2D::Serialize4 <- UTexture2D::Serialize <- LoadObject: Texture2D'Alchemy06_biaotizi.Alchemy06_biaotizi', pos=3DA, ver=513/0 (unversioned), game=ue4.17 <- UObject::EndLoad <- LoadWholePackage: Alchemy06_biaotizi.uasset <- CUmodelApp::ShowPackageUI <- Main: umodel_build=1590
+
